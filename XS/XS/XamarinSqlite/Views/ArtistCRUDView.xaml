@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinSqlite.Views.ArtistCRUDView">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="ArtistNameEntry" Placeholder="Enter artist name: " Text="{Binding Path=Artist.ArtistName}" />
+            <Entry x:Name="ArtistUrlEntry" Placeholder="Enter artist share URL: " Text="{Binding Path=Artist.ArtistShareUrl}" />
+            <Button Text="Add artist" Command="{Binding AddArtistCommand}"/>
+
+            <Label Text="Added artists: " />
+            <Grid x:Name="ArtistGrid">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="20" />
+                </Grid.RowDefinitions>
+                <!--ArtistInfo-->
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
