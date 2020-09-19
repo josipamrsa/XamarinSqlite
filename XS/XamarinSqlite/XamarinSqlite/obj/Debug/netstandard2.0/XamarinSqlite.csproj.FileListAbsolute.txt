@@ -1,0 +1,30 @@
+C:\Users\PMF\Documents\Github\XamarinSQLiteMVVM\XamarinSqlite\XamarinSqlite\XamarinSqlite\XamarinSqlite\bin\Debug\netstandard2.0\XamarinSqlite.deps.json
+C:\Users\PMF\Documents\Github\XamarinSQLiteMVVM\XamarinSqlite\XamarinSqlite\XamarinSqlite\XamarinSqlite\bin\Debug\netstandard2.0\XamarinSqlite.dll
+C:\Users\PMF\Documents\Github\XamarinSQLiteMVVM\XamarinSqlite\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.csprojAssemblyReference.cache
+C:\Users\PMF\Documents\Github\XamarinSQLiteMVVM\XamarinSqlite\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PMF\Documents\Github\XamarinSQLiteMVVM\XamarinSqlite\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PMF\Documents\Github\XamarinSQLiteMVVM\XamarinSqlite\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\Views\ArtistCRUDView.xaml.g.cs
+C:\Users\PMF\Documents\Github\XamarinSQLiteMVVM\XamarinSqlite\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.AssemblyInfoInputs.cache
+C:\Users\PMF\Documents\Github\XamarinSQLiteMVVM\XamarinSqlite\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.AssemblyInfo.cs
+C:\Users\PMF\Documents\Github\XamarinSQLiteMVVM\XamarinSqlite\XamarinSqlite\XamarinSqlite\XamarinSqlite\bin\Debug\netstandard2.0\ref\XamarinSqlite.dll
+C:\Users\PMF\Documents\Github\XamarinSQLiteMVVM\XamarinSqlite\XamarinSqlite\XamarinSqlite\XamarinSqlite\bin\Debug\netstandard2.0\XamarinSqlite.pdb
+C:\Users\PMF\Documents\Github\XamarinSQLiteMVVM\XamarinSqlite\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.csproj.CoreCompileInputs.cache
+C:\Users\PMF\Documents\Github\XamarinSQLiteMVVM\XamarinSqlite\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PMF\Documents\Github\XamarinSQLiteMVVM\XamarinSqlite\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.dll
+C:\Users\PMF\Documents\Github\XamarinSQLiteMVVM\XamarinSqlite\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\ref\XamarinSqlite.dll
+C:\Users\PMF\Documents\Github\XamarinSQLiteMVVM\XamarinSqlite\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.pdb
+C:\Users\PMF\Desktop\SRC Razni projekti\XSMVVM\XS\XamarinSqlite\XamarinSqlite\bin\Debug\netstandard2.0\XamarinSqlite.deps.json
+C:\Users\PMF\Desktop\SRC Razni projekti\XSMVVM\XS\XamarinSqlite\XamarinSqlite\bin\Debug\netstandard2.0\XamarinSqlite.dll
+C:\Users\PMF\Desktop\SRC Razni projekti\XSMVVM\XS\XamarinSqlite\XamarinSqlite\bin\Debug\netstandard2.0\ref\XamarinSqlite.dll
+C:\Users\PMF\Desktop\SRC Razni projekti\XSMVVM\XS\XamarinSqlite\XamarinSqlite\bin\Debug\netstandard2.0\XamarinSqlite.pdb
+C:\Users\PMF\Desktop\SRC Razni projekti\XSMVVM\XS\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.csprojAssemblyReference.cache
+C:\Users\PMF\Desktop\SRC Razni projekti\XSMVVM\XS\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PMF\Desktop\SRC Razni projekti\XSMVVM\XS\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PMF\Desktop\SRC Razni projekti\XSMVVM\XS\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\Views\ArtistCRUDView.xaml.g.cs
+C:\Users\PMF\Desktop\SRC Razni projekti\XSMVVM\XS\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.AssemblyInfoInputs.cache
+C:\Users\PMF\Desktop\SRC Razni projekti\XSMVVM\XS\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.AssemblyInfo.cs
+C:\Users\PMF\Desktop\SRC Razni projekti\XSMVVM\XS\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.csproj.CoreCompileInputs.cache
+C:\Users\PMF\Desktop\SRC Razni projekti\XSMVVM\XS\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PMF\Desktop\SRC Razni projekti\XSMVVM\XS\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.dll
+C:\Users\PMF\Desktop\SRC Razni projekti\XSMVVM\XS\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\ref\XamarinSqlite.dll
+C:\Users\PMF\Desktop\SRC Razni projekti\XSMVVM\XS\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.pdb
